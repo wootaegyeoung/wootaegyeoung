@@ -5,7 +5,7 @@
 ## activation & project
 - 학교 챗봇 Gram-e 프로젝트
     - 2023년 3월 1일 → 2024년 6월 22일
-    - 학교 졸업 프로젝트로 특정 집단에 대한 정보전달 매체로서 챗봇을 구현.
+    - 학교 졸업 프로젝트로 특정 집단에 대한 정보전달 매체로서 챗봇을 구현.<a href="https://github.com/Garam-e">📂</a>
 <br><br>
 - SW중심대학 공동 AI 경진대회2023 <a href="https://dacon.io/competitions/official/236092/overview/description">🔗</a>(팀원)
     - 기간 : 2023.07 ~ 2023.07
