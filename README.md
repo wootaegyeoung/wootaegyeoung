@@ -7,7 +7,7 @@
     - 2023년 3월 1일 → 2024년 6월 22일
     - 학교 졸업 프로젝트로 특정 집단에 대한 정보전달 매체로서 챗봇을 구현.
 <br><br>
-- SW중심대학 공동 AI 경진대회2023 (팀원)
+- SW중심대학 공동 AI 경진대회2023 <sub>2023</sub><sup><a href="https://dacon.io/competitions/official/236092/overview/description">🔗</a></sup>(팀원)
     - 기간 : 2023.07 ~ 2023.07
     - 위성 이미지 기반 건물 영역 분할 / 상위 25% / 팀 AL*
 <br><br>
