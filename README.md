@@ -8,17 +8,17 @@
     - 학교 졸업 프로젝트로 특정 집단에 대한 정보전달 매체로서 챗봇을 구현.<a href="https://github.com/Garam-e">📂</a>
 <br><br>
 - SW중심대학 공동 AI 경진대회2023 <a href="https://dacon.io/competitions/official/236092/overview/description">🔗</a>(팀원)
-    - 기간 : 2023.07 ~ 2023.07
+    - 기간 : 2023년 7월
     - 위성 이미지 기반 건물 영역 분할 / 상위 25% / 팀 AL*<a href="https://github.com/wootaegyeoung/Dacon_Satellite_Image_Building_Area_Segmentation">📂</a>
 <br><br>
-- INC Lab. <sup><a href="https://sites.google.com/gachon.ac.kr/inclab">🔗</a></sup> / Undergraduate RA <sub>(2023.03 ~ 2024.06)</sub>  (지능정보통신연구실) RA
-    - 기간 : 2023년 6월 30일 → 2023년 12월 31일
+- INC Lab. <a href="https://sites.google.com/gachon.ac.kr/inclab">🔗</a>  (지능정보통신연구실) RA
+    - 기간 : 2023년 6월 → 2023년 12월
     - WiFi CSI sensing
     - networking 
 <br><br>
-- 2023년 OSS (Open Source Software) INC 프로젝트
+- 2023년 OSS (Open Source Software) INC 프로젝트<a href="https://www.oss.kr/dev_competition">🔗</a>
     - 기간 : 2023년 6월 23일 → 2023년 12월 21일
-    - 와이파이 상태 정보를 활용하여 독거노인의 사고를 감지하고 이를 알리는 서비스를 제작 및 구축.
+    - 와이파이 상태 정보를 활용하여 독거노인의 사고를 감지하고 이를 알리는 서비스를 제작 및 구축.<a href="https://github.com/oss-inc">📂</a>
 <br><br>
 - K-PaaS 공모전
     - 기간 : 2024년 8월 5일 → 2024년 10월 31일
@@ -26,7 +26,7 @@
 
 ## Award<br>
 OSS(INC : 2023 학생부문 / 동상_티지 대표상)<a href="https://www.oss.kr/dev_competition_activities/show/8e8c8dc1-fd8f-4ef6-a968-10fa0a5fc610?search_target=title&search_keyword=inc">🔗</a>
-- 카메라, 웨어러블 기반 모니터링 방식의 문제점을 해결하기 위해 wifi 센싱을 활용한 차세대 독거노인 도움 서비스<a href="https://github.com/oss-inc">📂</a>
+- 카메라, 웨어러블 기반 모니터링 방식의 문제점을 해결하기 위해 wifi 센싱을 활용한 차세대 독거노인 도움 서비스
 
 
 
