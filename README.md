@@ -11,7 +11,7 @@
     - 기간 : 2023.07 ~ 2023.07
     - 위성 이미지 기반 건물 영역 분할 / 상위 25% / 팀 AL*
 <br><br>
-- INC Lab. 🔗  (지능정보통신연구실) RA
+- INC Lab. <sup><a href="https://sites.google.com/gachon.ac.kr/inclab">🔗</a></sup> / Undergraduate RA <sub>(2023.03 ~ 2024.06)</sub>  (지능정보통신연구실) RA
     - 기간 : 2023년 6월 30일 → 2023년 12월 31일
     - WiFi CSI sensing
     - networking 
