@@ -26,7 +26,7 @@
 
 ## Award<br>
 OSS(INC : 2023 학생부문 / 동상_티지 대표상)<a href="https://www.oss.kr/dev_competition_activities/show/8e8c8dc1-fd8f-4ef6-a968-10fa0a5fc610?search_target=title&search_keyword=inc">🔗</a>
-- 카메라, 웨어러블 기반 모니터링 방식의 문제점을 해결하기 위해 wifi 센싱을 활용한 차세대 독거노인 도움 서비스<a href="[https://www.oss.kr/dev_competition_activities/show/8e8c8dc1-fd8f-4ef6-a968-10fa0a5fc610?search_target=title&search_keyword=inc](https://github.com/oss-inc)">📂 </a>
+- 카메라, 웨어러블 기반 모니터링 방식의 문제점을 해결하기 위해 wifi 센싱을 활용한 차세대 독거노인 도움 서비스<a href="https://www.oss.kr/dev_competition_activities/show/8e8c8dc1-fd8f-4ef6-a968-10fa0a5fc610?search_target=title&search_keyword=inc">📂</a>
 
 
 
