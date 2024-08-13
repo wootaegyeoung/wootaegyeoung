@@ -16,7 +16,7 @@
     - WiFi CSI sensing
     - networking 
 <br><br>
-- 2023년 OSS (Open Source Software) INC 프로젝트<a href="https://www.oss.kr/dev_competition">🔗</a>
+- 2023년 OSS (Open Source Software) INC 프로젝트<a href="https://www.oss.kr/dev_competition">Link</a>
     - 기간 : 2023년 6월 23일 → 2023년 12월 21일
     - 와이파이 상태 정보를 활용하여 독거노인의 사고를 감지하고 이를 알리는 서비스를 제작 및 구축.<a href="https://github.com/oss-inc">Code</a>
 <br><br>
