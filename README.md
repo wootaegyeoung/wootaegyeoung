@@ -22,7 +22,7 @@
 <br><br>
 - K-PaaS 공모전
     - 기간 : 2024년 8월 5일 → 2024년 10월 31일
-    - 재난 상황과 관련된 알림을 기반으로 프로젝트를 구성함. 재난 메세지 형태를 재난 전, 재난 중, 재난 후 상황 총 3가지를 가정하여, 재난자(재난 상황에서의 시민)이 안전하게 재난에 대처하게 하는 알림 app을 제작.
+    - 재난 상황과 관련된 알림을 기반으로 프로젝트를 구성함. 재난 메세지 형태를 재난 전, 재난 중, 재난 후 상황 총 3가지를 가정하여, 재난자(재난 상황에서의 시민)이 안전하게 재난에 대처하게 하는 알림 app을 제작.<a href="https://github.com/TranStreaming-gc">Code</a>
 
 ## Award<br>
 OSS(INC : 2023 학생부문 / 동상_티지 대표상)<a href="https://www.oss.kr/dev_competition_activities/show/8e8c8dc1-fd8f-4ef6-a968-10fa0a5fc610?search_target=title&search_keyword=inc">Link</a>
