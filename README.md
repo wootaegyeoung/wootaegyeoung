@@ -23,7 +23,11 @@
 - K-PaaS 공모전
     - 기간 : 2024년 8월 5일 → 2024년 10월 31일
     - 재난 상황과 관련된 알림을 기반으로 프로젝트를 구성함. 재난 메세지 형태를 재난 전, 재난 중, 재난 후 상황 총 3가지를 가정하여, 재난자(재난 상황에서의 시민)이 안전하게 재난에 대처하게 하는 알림 app을 제작.<a href="https://github.com/TranStreaming-gc">Code</a>
-
+<br><br>
+- LinkVerse : Moim_Project<a href="https://moim.team">Link</a>
+    - 기간 : 2024년 11월 20일 → 2025년 3월 10일
+    - Moim은 사용자 위치 데이터와 대학교 선배들의 추천 정보를 활용하여 최적의 모임 장소를 추천하는 통합 플랫폼입니다. 약속을 쉽게 정리할 수 있는 캘린더 기능, 일정 조율 시스템, 그리고 출발지를 기반으로 최적의 모임 위치를 반환하는 기능을 지원합니다.<a href="https://github.com/GCU-LINKVERSE">Code</a>
+    
 ## Award<br>
 OSS(INC : 2023 학생부문 / 동상_티지 대표상)<a href="https://www.oss.kr/dev_competition_activities/show/8e8c8dc1-fd8f-4ef6-a968-10fa0a5fc610?search_target=title&search_keyword=inc">Link</a>
 - 카메라, 웨어러블 기반 모니터링 방식의 문제점을 해결하기 위해 wifi 센싱을 활용한 차세대 독거노인 도움 서비스
